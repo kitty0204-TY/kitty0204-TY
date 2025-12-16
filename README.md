@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👩‍💻 풀스택 개발자 kitty0204-TY 입니다! 🚀
+# 💖 풀스택 개발자 kitty0204-TY 입니다! ✨
   
-[![Hits](https://hits.segen.cc/github/kitty0204-TY/kitty0204-TY.svg?style=flat-square&color=A67C4A)](https://github.com/kitty0204-TY/kitty0204-TY)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=65B741&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+VectorDB;Microservice+Architecture)](https://git.io/typing-svg)
+[![Hits](https://hits.segen.cc/github/kitty0204-TY/kitty0204-TY.svg?style=flat-square&color=FF69B4)](https://github.com/kitty0204-TY/kitty0204-TY)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=FF1493&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+VectorDB;Microservice+Architecture)](https://git.io/typing-svg)
   
 <br>
 
@@ -49,8 +49,8 @@
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
       </td>
     </tr>
@@ -81,9 +81,9 @@
 
 <div align="center">
   
-[![kitty0204-TY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitty0204-TY&show_icons=true&theme=vue&hide_rank=true&count_private=true&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+[![kitty0204-TY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitty0204-TY&show_icons=true&theme=radical&hide_rank=true&count_private=true&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty0204-TY&layout=compact&langs_count=6&theme=vue&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty0204-TY&layout=compact&langs_count=6&theme=radical&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
