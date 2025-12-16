@@ -89,6 +89,22 @@
 
 ---
 
+### 🔗 Contact & Channel
+
+<p align="center">
+  <a href="mailto:여기에_이메일_주소를_입력하세요">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="여기에_개인_블로그_주소를_입력하세요" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kitty0204-TY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center" style="color: #FF69B4;">
   궁금한 점은 언제든 질문해주세요! 😉
 </p>
