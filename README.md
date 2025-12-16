@@ -3,7 +3,7 @@
 # 💖 풀스택 개발자 kitty0204-TY 입니다! ✨
   
 [![Hits](https://hits.segen.cc/github/kitty0204-TY/kitty0204-TY.svg?style=flat-square&color=FF69B4)](https://github.com/kitty0204-TY/kitty0204-TY)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=FF1493&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+VectorDB;Microservice+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&color=FF1493&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+VectorDB;Microservice+Architecture)](https://git.io/typing-svg)
   
 <br>
 
@@ -13,11 +13,11 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<table style="width:100%; border: 2px solid #FFC0CB; border-collapse: collapse; text-align: center;">
+<table style="width:100%; border: 3px solid #FFC0CB; border-collapse: collapse; text-align: center; background-color: #FFF0F5;">
   <thead>
     <tr style="background-color: #F8F8FF;">
-      <th style="width:20%; border: 1px solid #FFC0CB; padding: 10px; color: #FF1493;">Category</th>
-      <th style="border: 1px solid #FFC0CB; padding: 10px; color: #FF1493;">Technologies</th>
+      <th style="width:20%; border: 1px solid #FFC0CB; padding: 12px; color: #FF1493; font-size: 1.1em;">Category</th>
+      <th style="border: 1px solid #FFC0CB; padding: 12px; color: #FF1493; font-size: 1.1em;">Technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -70,11 +70,27 @@
 > **Repository (Backend):** [https://github.com/kitty0204-TY/backend]
 > **Repository (Vector DB/Analysis):** [https://github.com/kitty0204-TY/vector-DB]
 
+<hr style="border: 0.5px solid #FFD1DC;">
+
 #### 2. 🎀 개인 프로젝트 (MSA): Java-Python MSA 기반 비디오 콘텐츠 분석 엔진
 > **핵심 기술 강조:** Java/Python 이종 언어 간 **마이크로서비스 아키텍처(MSA)** 구현 및 REST 통신, 데이터 직렬화/역직렬화.
 > **Tech Stack:** Java (Gateway), Python (Microservice), Flask, YouTube Transcript API
 > **Repository:** [https://github.com/kitty0204-TY/youtube-analyzer]
 
+---
+### 📞 Contact & Channel
+
+<p align="center">
+  <a href="mailto:xodus0204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/taeyeon_0204/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kitty0204-TY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -89,22 +105,6 @@
 
 ---
 
-### 🔗 Contact & Channel
-
-<p align="center">
-  <a href="mailto:xodus0204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/taeyeon_0204/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-  <a href="https://github.com/kitty0204-TY" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center" style="color: #FF69B4;">
-  궁금한 점은 언제든 질문해주세요! 😉
+<p align="center" style="color: #FF1493; font-size: 1.1em;">
+  궁금한 점은 언제든 질문해주세요! 이 코드가 마음에 드시길 바랍니다! 😊
 </p>
