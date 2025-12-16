@@ -92,10 +92,10 @@
 ### 🔗 Contact & Channel
 
 <p align="center">
-  <a href="mailto:여기에_이메일_주소를_입력하세요">
+  <a href="mailto:xodus0204@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="여기에_개인_블로그_주소를_입력하세요" target="_blank">
+  <a href="https://www.instagram.com/taeyeon_0204/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
   </a>
   <a href="https://github.com/kitty0204-TY" target="_blank">
