@@ -3,7 +3,7 @@
 # 👋 안녕하세요! 풀스택 개발자 kitty0204-TY 입니다.
   
 [![Hits](https://hits.segen.cc/github/kitty0204-TY/kitty0204-TY.svg?style=flat-square&color=blue)](https://github.com/kitty0204-TY/kitty0204-TY)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=430&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+MSA;Learning+New+Tech+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=430&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+MSA;Learning+New+Tech+Every+Day)](https://git.io/typing-svg)
   
 </div>
 
@@ -23,23 +23,25 @@
 
 ### 🚀 Major Projects
 
-#### 1. 졸업 작품: [유니마켓 (Uni-Market) - 커뮤니티 기반 중고거래 플랫폼]
-> **Key Features:** 실시간 채팅, 게시글/댓글, OAuth2 로그인, 검색 필터링
-> **Tech Stack:** Java, Spring Boot, MySQL, React, Redis, AWS EC2
-> **Repository:** [링크를 여기에 넣어주세요]
-> **Summary:** 대학생들을 위한 중고거래 플랫폼입니다. (MSA 아님)
+#### 1. 졸업 작품 (3-Tier): [소개팅 매칭 플랫폼]
+> **핵심 기능:** 실시간 매칭/채팅, 벡터 DB 기반 사용자 추천, 소셜 로그인, 푸시 알림
+> **기술 강조:** **Vector DB**를 활용한 고도화된 매칭 추천 시스템, AWS 클라우드 환경 배포.
+> **Tech Stack:** Java, Spring Boot, React, MySQL, Redis, **Vector DB**, AWS EC2
+> **Repository (Frontend):** [https://github.com/kitty0204-TY/frontend]
+> **Repository (Backend):** [https://github.com/kitty0204-TY/backend]
+> **Repository (Vector DB/Analysis):** [https://github.com/kitty0204-TY/vector-DB]
 
-#### 2. 개인 프로젝트: [유튜브 AI 분석기 (Youtube Analyzer) - MSA 구조] 
-> **Key Features:** URL 기반 한국어 자막 추출 및 키워드/긍부정 감성 분석
+#### 2. 개인 프로젝트 (MSA): [유튜브 AI 분석기 - Microservice 구조 구현] 
+> **핵심 기능:** URL 기반 한국어 자막 추출 및 키워드/긍부정 감성 분석
+> **기술 강조:** Java 서버와 Python 서버를 연동하여 **MSA(마이크로서비스 아키텍처)** 게이트웨이를 구축.
 > **Tech Stack:** Java (Gateway), Python (Analysis Microservice), Flask, YouTube Transcript API
-> **Repository:** [링크를 여기에 넣어주세요]
-> **Summary:** Java 서버가 Python 서버와 연동하여 AI 분석 결과를 제공하는 **MSA 구조**를 구현했습니다. (이 부분이 하이라이트입니다!)
+> **Repository:** [유튜브 AI 분석기 리포지토리 링크를 여기에 넣어주세요]
 
 #### 3. 개인 프로젝트: [유튜브 API 활용 서비스]
-> **Key Features:** 유튜브 데이터 API 연동, 영상 목록 조회, 댓글 크롤링 등
+> **핵심 기능:** 유튜브 데이터 API 연동, 영상 목록 조회, 댓글 크롤링 등
+> **기술 강조:** Spring Boot 환경에서 외부 대형 API 연동 및 데이터 처리 경험.
 > **Tech Stack:** Java, Spring Boot, YouTube Data API
-> **Repository:** [링크를 여기에 넣어주세요]
-> **Summary:** Spring Boot 환경에서 외부 API 연동 경험을 쌓았습니다.
+> **Repository:** [유튜브 API 활용 서비스 리포지토리 링크를 여기에 넣어주세요]
 
 ---
 
