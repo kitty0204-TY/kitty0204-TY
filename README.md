@@ -24,24 +24,18 @@
 ### 🚀 Major Projects
 
 #### 1. 졸업 작품 (3-Tier): [소개팅 매칭 플랫폼]
-> **핵심 기능:** 실시간 매칭/채팅, 벡터 DB 기반 사용자 추천, 소셜 로그인, 푸시 알림
-> **기술 강조:** **Vector DB**를 활용한 고도화된 매칭 추천 시스템, AWS 클라우드 환경 배포.
+> **핵심 기능:** 실시간 매칭/채팅, **벡터 DB 기반 사용자 추천**, 소셜 로그인, 푸시 알림
+> **기술 강조:** **Vector DB**를 활용한 고도화된 매칭 추천 시스템, 클린 아키텍처 기반의 코드 분리 및 확장성 확보.
 > **Tech Stack:** Java, Spring Boot, React, MySQL, Redis, **Vector DB**, AWS EC2
 > **Repository (Frontend):** [https://github.com/kitty0204-TY/frontend]
 > **Repository (Backend):** [https://github.com/kitty0204-TY/backend]
 > **Repository (Vector DB/Analysis):** [https://github.com/kitty0204-TY/vector-DB]
 
-#### 2. 개인 프로젝트 (MSA): [유튜브 AI 분석기 - Microservice 구조 구현] 
+#### 2. 개인 프로젝트 (MSA): [Java-Python MSA 기반 비디오 콘텐츠 분석 엔진]
 > **핵심 기능:** URL 기반 한국어 자막 추출 및 키워드/긍부정 감성 분석
-> **기술 강조:** Java 서버와 Python 서버를 연동하여 **MSA(마이크로서비스 아키텍처)** 게이트웨이를 구축.
+> **기술 강조:** Java 서버와 Python 서버를 연동하여 **MSA(마이크로서비스 아키텍처)** 게이트웨이를 구축. 서비스 간 포트 통신 및 데이터 직렬화/역직렬화 구현 경험.
 > **Tech Stack:** Java (Gateway), Python (Analysis Microservice), Flask, YouTube Transcript API
 > **Repository:** [유튜브 AI 분석기 리포지토리 링크를 여기에 넣어주세요]
-
-#### 3. 개인 프로젝트: [유튜브 API 활용 서비스]
-> **핵심 기능:** 유튜브 데이터 API 연동, 영상 목록 조회, 댓글 크롤링 등
-> **기술 강조:** Spring Boot 환경에서 외부 대형 API 연동 및 데이터 처리 경험.
-> **Tech Stack:** Java, Spring Boot, YouTube Data API
-> **Repository:** [유튜브 API 활용 서비스 리포지토리 링크를 여기에 넣어주세요]
 
 ---
 
