@@ -78,6 +78,7 @@
 > **Repository:** [https://github.com/kitty0204-TY/youtube-analyzer]
 
 ---
+
 ### 📞 Contact & Channel
 
 <p align="center">
@@ -91,20 +92,25 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Fun
 
 <div align="center">
   
-[![kitty0204-TY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitty0204-TY&show_icons=true&theme=radical&hide_rank=true&count_private=true&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitty0204-TY&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ko" alt="GitHub Streak" width="45%" style="margin: 10px;"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229215002-c744f944-88be-40f9-8664-58e57803a67d.gif" alt="Coding GIF" width="45%" style="margin: 10px;"/>
+  
+  <br>
+  
+  [![kitty0204-TY's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitty0204-TY&show_icons=true&theme=radical&hide_rank=true&count_private=true&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty0204-TY&layout=compact&langs_count=6&theme=radical&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty0204-TY&layout=compact&langs_count=6&theme=radical&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 ---
 
-<p align="center" style="color: #FF1493; font-size: 1.1em;">
-  궁금한 점은 언제든 질문해주세요! 이 코드가 마음에 드시길 바랍니다! 😊
 </p>
