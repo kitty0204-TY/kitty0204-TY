@@ -35,7 +35,7 @@
 > **핵심 기능:** URL 기반 한국어 자막 추출 및 키워드/긍부정 감성 분석
 > **기술 강조:** Java 서버와 Python 서버를 연동하여 **MSA(마이크로서비스 아키텍처)** 게이트웨이를 구축. 서비스 간 포트 통신 및 데이터 직렬화/역직렬화 구현 경험.
 > **Tech Stack:** Java (Gateway), Python (Analysis Microservice), Flask, YouTube Transcript API
-> **Repository:** [유튜브 AI 분석기 리포지토리 링크를 여기에 넣어주세요]
+> **Repository:** [https://github.com/kitty0204-TY/youtube-analyzer]
 
 ---
 
