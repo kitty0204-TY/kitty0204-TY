@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💖 풀스택 개발자 kitty0204-TY 입니다! ✨
+# 💖 풀스택 개발자 김태연연 입니다! ✨
   
 [![Hits](https://hits.segen.cc/github/kitty0204-TY/kitty0204-TY.svg?style=flat-square&color=FF69B4)](https://github.com/kitty0204-TY/kitty0204-TY)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&color=FF1493&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+VectorDB;Microservice+Architecture)](https://git.io/typing-svg)
@@ -75,7 +75,7 @@ https://remarkable-zuccutto-306910.netlify.app/
   
 > **핵심 기술 강조:** Vector DB 기반 정교한 매칭 추천 시스템, Real-time WebSocket 채팅, 클린 아키텍처.
 > **Tech Stack:** Java, Spring Boot, React, MySQL, Redis, Vector DB, AWS EC2
-> **Service URL (라이브 주소):** [여기에_배포된_소개팅앱_URL_입력] 👈 필수로 강조!
+> **Service URL (라이브 주소):** [https://remarkable-zuccutto-306910.netlify.app/]
 > **Repository (Frontend):** [https://github.com/kitty0204-TY/frontend]
 > **Repository (Backend):** [https://github.com/kitty0204-TY/backend]
 > **Repository (Vector DB/Analysis):** [https://github.com/kitty0204-TY/vector-DB]
