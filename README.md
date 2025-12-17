@@ -61,11 +61,21 @@
 
 ---
 
+https://remarkable-zuccutto-306910.netlify.app/
+
 ### 🚀 Major Projects
 
 #### 1. 💖 졸업 작품 (3-Tier): 소개팅 매칭 플랫폼
+
+<p align="left">
+  <a href="https://remarkable-zuccutto-306910.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF1493?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+  
 > **핵심 기술 강조:** Vector DB 기반 정교한 매칭 추천 시스템, Real-time WebSocket 채팅, 클린 아키텍처.
 > **Tech Stack:** Java, Spring Boot, React, MySQL, Redis, Vector DB, AWS EC2
+> **Service URL (라이브 주소):** [여기에_배포된_소개팅앱_URL_입력] 👈 필수로 강조!
 > **Repository (Frontend):** [https://github.com/kitty0204-TY/frontend]
 > **Repository (Backend):** [https://github.com/kitty0204-TY/backend]
 > **Repository (Vector DB/Analysis):** [https://github.com/kitty0204-TY/vector-DB]
