@@ -61,8 +61,6 @@
 
 ---
 
-https://remarkable-zuccutto-306910.netlify.app/
-
 ### 🚀 Major Projects
 
 #### 1. 💖 졸업 작품 (3-Tier): 소개팅 매칭 플랫폼
