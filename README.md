@@ -93,9 +93,6 @@
   <a href="mailto:xodus0204@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/taeyeon_0204/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://github.com/kitty0204-TY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
